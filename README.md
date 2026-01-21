@@ -18,6 +18,25 @@ This milestone elevates the program from a learning experience to a professional
 
 Participation in the conference anchors the Spring program in authentic academic practice, reinforcing that advanced cyberinfrastructure skills are not ends in themselves—but tools for impact, scholarship, and leadership.
 
+## Program Timeline
+
+- **February 5, 2026**  
+  Program kickoff and research project orientation
+
+- **February – Mid March 2026**  
+  Weekly virtual working sessions focused on research design, environment setup, and initial development
+
+- **Mid March 2026**  
+  Project refinement, documentation, and abstract preparation
+
+- **March 26–29, 2026**  
+  **ADMI 2026 Conference (Orangeburg, SC)**  
+  Student research presentation
+
+- **Late March – April 16, 2026**  
+  Post-conference iteration, final deliverables, and program wrap-up
+
+
 ## A Capstone Experience
 
 In contrast to the broad survey approach of the Fall program, Spring 2026 functions as a capstone, designed for students ready to demonstrate mastery, initiative, and professional growth. By the program’s conclusion, participants will have contributed to a tangible research outcome, presented their work publicly, and positioned themselves competitively for graduate study, internships, and research-oriented careers.
